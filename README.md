@@ -1,8 +1,11 @@
----
-description: Welcome!
----
+# Blog for [Jim Tyhurst](https://www.jimtyhurst.com/)
 
-# Blog for Jim Tyhurst
+This is more of a collection of my personal notes than a blog.
+However, I have chosen to put my thoughts, explorations, and musings
+in a public place, so it serves the purpose of a blog by sharing
+my lessons learned with others.
 
-This is more of a collection of my personal notes than a blog, but I put it in a public space with my thoughts, musings, and lessons learned, so it serves the purpose of a blog.
+## License
+Copyright (c) 2020 Jim Tyhurst
 
+Licensed under the [Open Software License version 3.0](./LICENSE).
