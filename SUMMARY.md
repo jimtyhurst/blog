@@ -4,4 +4,4 @@
 * [Data analyses](./data-analyses/data-analyses.md)
     * [Distribution of Meetup Days](./data-analyses/DistributionOfMeetupDays.md)
 * [Meta](./meta/meta.md)
-    * [License](./LICENSE)
+    * [License](./LICENSE.txt)

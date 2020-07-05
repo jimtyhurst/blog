@@ -14,4 +14,4 @@ my lessons learned with others.
 ## License
 Copyright &#169; 2020 Jim Tyhurst
 
-Licensed under the [Open Software License version 3.0](./LICENSE).
+Licensed under the [Open Software License version 3.0](./LICENSE.txt).
