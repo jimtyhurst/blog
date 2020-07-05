@@ -1,7 +1,7 @@
 Distribution of Meetup Days for the [Portland R User Group
 Meetup](https://www.meetup.com/portland-r-user-group/)
 ================
-[Jim Tyhurst](https://www.jimtyhurst.com/)
+[Jim Tyhurst](https://www.jimtyhurst.com/)<br>
 2020-06-16
 
   - [The Question](#the-question)
