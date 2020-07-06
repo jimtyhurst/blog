@@ -1,10 +1,12 @@
 # Linguistics
 
-Tyhurst, Jim. 2011. Model-Theory Semantics implemented in Clojure. Lightning talk presented at Lambda Lounge user group. St. Louis, MO. April 7, 2011. [PDF]((./JimTyhurst-ModelTheorySemantics-20110407.pdf)). [Source Code](https://github.com/jimtyhurst/generalized-quantifiers)
+A list of publications and presentations that I have done in the field of linguistics, listed in reverse chronological order.
+
+Tyhurst, Jim. 2011. Model-Theory Semantics implemented in Clojure. Lightning talk presented at Lambda Lounge user group. St. Louis, MO. April 7, 2011. [PDF]((./JimTyhurst-ModelTheorySemantics-20110407.pdf)). [Source Code](https://github.com/jimtyhurst/generalized-quantifiers).
 
 Berman, Gerald D., Richard N. Gray, David Liu, and James J. Tyhurst. 2001. "Structured radiology reporting: a 4 year case study of 160,000 reports". Presented at the Integrating the Healthcare Enterprise (IHE) Symposium of the Radiological Society of North America (RSNA) 2001 Annual Meeting, November 25 - 30, 2001. [PDF](./structurad-rsna-2001-16c4efd550c47ca25c3b0afc47cfcd37.pdf).
 
-Tyhurst, James J. 1990. "Logical Forms for English Sentences". Ph.D. dissertation at the University of California, Los Angeles. [PDF](http://www.linguistics.ucla.edu/general/dissertations/Tyhurst.1990.pdf)
+Tyhurst, James J. 1990. "Logical Forms for English Sentences". Ph.D. dissertation at the University of California, Los Angeles. [PDF](http://www.linguistics.ucla.edu/general/dissertations/Tyhurst.1990.pdf).
 
 Tyhurst, James J. 1989. "A semantic characterization of referentially dependent noun phrases". Presented at the 1989 Annual Meeting of the Linguistic Society of America, Washington, DC, December 27-30, 1989.
 Abstract on p. 67 of [Annual Meeting 1989 Handbook, p. 95/154 of [PDF](https://www.linguisticsociety.org/sites/default/files/Ling.%20Society%20of%20America%201989.pdf).
