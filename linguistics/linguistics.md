@@ -2,9 +2,9 @@
 
 A list of publications and presentations that I have done in the field of linguistics, listed in reverse chronological order.
 
-Tyhurst, Jim. 2011. Model-Theory Semantics implemented in Clojure. Lightning talk presented at Lambda Lounge user group. St. Louis, MO. April 7, 2011. [PDF]((./JimTyhurst-ModelTheorySemantics-20110407.pdf)). [Source Code](https://github.com/jimtyhurst/generalized-quantifiers).
+Tyhurst, Jim. 2011. Model-Theory Semantics implemented in Clojure. Lightning talk presented at Lambda Lounge user group. St. Louis, MO. April 7, 2011. [PDF]((JimTyhurst-ModelTheorySemantics-20110407.pdf)). [Source Code](https://github.com/jimtyhurst/generalized-quantifiers).
 
-Berman, Gerald D., Richard N. Gray, David Liu, and James J. Tyhurst. 2001. "Structured radiology reporting: a 4 year case study of 160,000 reports". Presented at the Integrating the Healthcare Enterprise (IHE) Symposium of the Radiological Society of North America (RSNA) 2001 Annual Meeting, November 25 - 30, 2001. [PDF](./structurad-rsna-2001-16c4efd550c47ca25c3b0afc47cfcd37.pdf).
+Berman, Gerald D., Richard N. Gray, David Liu, and James J. Tyhurst. 2001. "Structured radiology reporting: a 4 year case study of 160,000 reports". Presented at the Integrating the Healthcare Enterprise (IHE) Symposium of the Radiological Society of North America (RSNA) 2001 Annual Meeting, November 25 - 30, 2001. [PDF](structurad-rsna-2001.pdf).
 
 Tyhurst, James J. 1990. "Logical Forms for English Sentences". Ph.D. dissertation at the University of California, Los Angeles. [PDF](http://www.linguistics.ucla.edu/general/dissertations/Tyhurst.1990.pdf).
 
