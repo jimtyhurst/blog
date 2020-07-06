@@ -1,4 +1,4 @@
-# Data analyses
+# Data science
 
 ## Sample analyses of data using R
 * [Distribution of Meetup Days](./DistributionOfMeetupDays.md)
